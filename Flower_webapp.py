@@ -11,7 +11,7 @@ def main():
     st.title("Created By Dev Ambekar")
     html_temp = """
     <div style="background-color:teal ;padding:10px">
-    <h2 style="color:white;text-align:center;">Crop Yield Recommendation System</h2>
+    <h2 style="color:white;text-align:center;">Flower Prediction System</h2>
     </div>
     """
     st.markdown(html_temp, unsafe_allow_html=True)
